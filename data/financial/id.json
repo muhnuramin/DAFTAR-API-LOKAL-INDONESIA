@@ -256,7 +256,7 @@
     },
     {
       "apiName": "Yoo Payments API",
-      "status": false,
+      "status": true,
       "documentationUrl": "https://yoo.my.id/api/docs/payments",
       "developer": {
         "name": "Yoo Digital",
